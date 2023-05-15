@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
 
-![ngrx](https://github.com/athishsreeram/mfe/angular-state-management/main/demo.png)
+![ngrx](https://github.com/athishsreeram/angular-state-management/blob/master/demo.png)
 
 ## Development server
 
